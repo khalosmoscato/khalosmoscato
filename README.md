@@ -41,5 +41,5 @@ I believe code should be as refined as a luxury service. I advocate for **Clean 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khalosmoscato&show_icons=true&theme=tokyonight" alt="Khalos's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khalosmoscato&theme=dark&hide_border=true&include_all_commits=true" alt="Khalos's GitHub Stats" />
 </p>
