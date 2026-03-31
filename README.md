@@ -10,7 +10,7 @@ I am a precision-driven Software Engineer transitioning from a leadership career
 ### 🛠️ Technical Toolkit
 
 - **Languages:** C# (Modern .NET), TypeScript, JavaScript, Python, SQL
-- **Frameworks:** .NET 8, ASP.NET Core, Blazor, React, Node.js, Tailwind CSS
+- **Frameworks:** .NET 8 and 10, ASP.NET Core, Blazor, React, Node.js, Tailwind CSS
 - **Testing:** TDD (xUnit, NUnit, Moq, Fluent Assertions, Vitest, Cypress)
 - **Cloud & DevOps:** AWS (S3, Lambda, EC2), Azure, Docker, CI/CD Pipelines, Git
 - **Data:** PostgreSQL, MongoDB, Entity Framework, Supabase
@@ -41,5 +41,9 @@ I believe code should be as refined as a luxury service. I advocate for **Clean 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khalosmoscato&theme=dark&hide_border=true&include_all_commits=true" alt="Khalos's GitHub Stats" />
+  <img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
