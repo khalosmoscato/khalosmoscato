@@ -1,4 +1,4 @@
-<p><big><big><big><big><strong>Hi, I'm Khalos 👋</strong></big></big></big></big></p>
+<p><font size="+2"><strong>Hi, I'm Khalos 👋</strong></font></p>
 
 <div style="font-size: 1.2em; font-weight: 600; color: #8b949e; margin-bottom: 16px;">Software Engineer | .NET & Full-Stack Development</div>
 
