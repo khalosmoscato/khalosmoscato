@@ -6,7 +6,7 @@ I am a precision-driven Software Engineer transitioning from a leadership career
 
 ---
 
-<div style="font-size: 1.25em; font-weight: 700; margin-top: 20px; margin-bottom: 12px;">🛠️ Technical Toolkit</div>
+<p><big><strong>🛠️ Technical Toolkit</strong></big></p>
 
 - **Languages:** C# (Modern .NET), TypeScript, JavaScript, Python, SQL
 - **Frameworks:** .NET 8 and 10, ASP.NET Core, Blazor, React, Node.js, Tailwind CSS
