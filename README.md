@@ -1,7 +1,6 @@
 # Hi, I'm Khalos 👋 
 
 ### Software Engineer | .NET & Full-Stack Development
-[🌐 Portfolio](https://khalos-portfolio.vercel.app/) | [💼 LinkedIn](https://www.linkedin.com/in/khalosmoscato/) | 📍 London, WC2E
 
 I am a precision-driven Software Engineer transitioning from a leadership career in luxury retail management (Louis Vuitton, Oyuna) into technical architecture. I apply the same **operational excellence** and **attention to detail** required in high-end retail to building robust, scalable, and mission-critical back-end systems.
 
@@ -34,9 +33,7 @@ I believe code should be as refined as a luxury service. I advocate for **Clean 
 
 ### 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/khalosmoscato/)
 - 📧 [Email](mailto:khalos.moscato@gmail.com)
-- 📍 Based in **Central London (Covent Garden)** — always happy to connect for local opportunities or technical discussions.
 
 ---
 
@@ -47,4 +44,10 @@ I believe code should be as refined as a luxury service. I advocate for **Clean 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
