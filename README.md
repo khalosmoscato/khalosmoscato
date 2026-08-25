@@ -1,12 +1,12 @@
-<h1 align="left">Hi, I'm Khalos 👋</h1>
+<div style="font-size: 2em; font-weight: 800; margin-bottom: 4px;">Hi, I'm Khalos 👋</div>
 
-<p><h3>Software Engineer | .NET & Full-Stack Development</h3></p>
+<div style="font-size: 1.2em; font-weight: 600; color: #8b949e; margin-bottom: 16px;">Software Engineer | .NET & Full-Stack Development</div>
 
 I am a precision-driven Software Engineer transitioning from a leadership career in luxury retail management (Louis Vuitton, Oyuna) into technical architecture. I apply the same **operational excellence** and **attention to detail** required in high-end retail to building robust, scalable, and mission-critical back-end systems.
 
 ---
 
-<p><h3>🛠️ Technical Toolkit</h3></p>
+<div style="font-size: 1.25em; font-weight: 700; margin-top: 20px; margin-bottom: 12px;">🛠️ Technical Toolkit</div>
 
 - **Languages:** C# (Modern .NET), TypeScript, JavaScript, Python, SQL
 - **Frameworks:** .NET 8 and 10, ASP.NET Core, Blazor, React, Node.js, Tailwind CSS
@@ -16,7 +16,7 @@ I am a precision-driven Software Engineer transitioning from a leadership career
 
 ---
 
-<p><h3>🚀 Featured Work & Focus</h3></p>
+<div style="font-size: 1.25em; font-weight: 700; margin-top: 20px; margin-bottom: 12px;">🚀 Featured Work & Focus</div>
 
 - **[Live Portfolio](https://khalos-portfolio.vercel.app/):** A responsive showcase of my engineering journey built with **React**, **TypeScript**, and **Vite**.
 - **[VEGG.TABLE](https://github.com/khalosmoscato/VEGG.TABLE):** A peer-to-peer marketplace built using Clean Architecture with C# 10, .NET, and Docker for the back end, paired with a Blazor and Tailwind CSS frontend[cite: 1].
@@ -25,13 +25,13 @@ I am a precision-driven Software Engineer transitioning from a leadership career
 
 ---
 
-<p><h3>🏛️ Engineering Philosophy</h3></p>
+<div style="font-size: 1.25em; font-weight: 700; margin-top: 20px; margin-bottom: 12px;">🏛️ Engineering Philosophy</div>
 
 I believe code should be as refined as a luxury service. I advocate for **Clean Architecture** and **OOP** patterns to ensure applications are scalable and maintainable. My management background means I value **clear documentation, peer review, and collaborative problem-solving** within a team.
 
 ---
 
-<p><h3>🌐 Connect with Me</h3></p>
+<div style="font-size: 1.25em; font-weight: 700; margin-top: 20px; margin-bottom: 12px;">🌐 Connect with Me</div>
 
 - 📧 [Email](mailto:khalos.moscato@gmail.com)
 
