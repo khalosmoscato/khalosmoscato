@@ -1,12 +1,12 @@
-# Hi, I'm Khalos 👋 
+<h1 align="left">Hi, I'm Khalos 👋</h1>
 
-### Software Engineer | .NET & Full-Stack Development
+<p><h3>Software Engineer | .NET & Full-Stack Development</h3></p>
 
 I am a precision-driven Software Engineer transitioning from a leadership career in luxury retail management (Louis Vuitton, Oyuna) into technical architecture. I apply the same **operational excellence** and **attention to detail** required in high-end retail to building robust, scalable, and mission-critical back-end systems.
 
 ---
 
-### 🛠️ Technical Toolkit
+<p><h3>🛠️ Technical Toolkit</h3></p>
 
 - **Languages:** C# (Modern .NET), TypeScript, JavaScript, Python, SQL
 - **Frameworks:** .NET 8 and 10, ASP.NET Core, Blazor, React, Node.js, Tailwind CSS
@@ -16,22 +16,22 @@ I am a precision-driven Software Engineer transitioning from a leadership career
 
 ---
 
-### 🚀 Featured Work & Focus
+<p><h3>🚀 Featured Work & Focus</h3></p>
 
 - **[Live Portfolio](https://khalos-portfolio.vercel.app/):** A responsive showcase of my engineering journey built with **React**, **TypeScript**, and **Vite**.
+- **[VEGG.TABLE](https://github.com/khalosmoscato/VEGG.TABLE):** A peer-to-peer marketplace built using Clean Architecture with C# 10, .NET, and Docker for the back end, paired with a Blazor and Tailwind CSS frontend[cite: 1].
 - **Enterprise Engineering:** Focused on deep-dive **.NET 8 architecture**, SOLID principles, and Agile team collaboration.
-- **Next Phase:** Building high-performance full-stack applications with a focus on data integrity and security.
 - **Interests:** Exploring **Fintech** innovation, **Healthtech**, and **AI/LLM** integration.
 
 ---
 
-### 🏛️ Engineering Philosophy
+<p><h3>🏛️ Engineering Philosophy</h3></p>
 
 I believe code should be as refined as a luxury service. I advocate for **Clean Architecture** and **OOP** patterns to ensure applications are scalable and maintainable. My management background means I value **clear documentation, peer review, and collaborative problem-solving** within a team.
 
 ---
 
-### 🌐 Connect with Me
+<p><h3>🌐 Connect with Me</h3></p>
 
 - 📧 [Email](mailto:khalos.moscato@gmail.com)
 
@@ -50,4 +50,6 @@ I believe code should be as refined as a luxury service. I advocate for **Clean 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
 </p>
